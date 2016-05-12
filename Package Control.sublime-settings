@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Emmet",
+		"Front-end Project Snippets",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"LESS",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8"
+	]
+}
