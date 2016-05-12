@@ -1,8 +1,10 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 11,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+  "hot_exit": false,
+  "remember_open_files": false
 }
